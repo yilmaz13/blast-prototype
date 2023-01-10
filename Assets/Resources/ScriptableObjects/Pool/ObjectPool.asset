@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c91e3abba1c6cd4ba805230c7fcbc7b, type: 3}
+  m_Name: ObjectPool
+  m_EditorClassIdentifier: 
+  pools:
+  - pooledObjects: []
+    prefab: {fileID: 1759251173121858, guid: 14d62233dbb634a6d9d0e4ce527199e4, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 150
+  - pooledObjects: []
+    prefab: {fileID: 1642642745317808, guid: 92085f8ac50604752b0325748a8eb5f2, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 10
+  - pooledObjects: []
+    prefab: {fileID: 1642642745317808, guid: 26db16897bf172b4faa897950e35feaf, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 5
+  - pooledObjects: []
+    prefab: {fileID: 1606762470730418, guid: 4e01e6b34c2c9a4489c34bb9f1c8b8b0, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 3912451879940116726, guid: 7d309fb7e8ea4b94c922d215c43e95e3, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 192200134770143876, guid: 108bf58be6b21b34e8259eca3b9eda77, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 6682723849345042662, guid: d2f490d889a9a3b4391b9f7d235a28ea, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 6533409991664345752, guid: cddbf2c136daedf4388311137928e3ec, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 7257400844355516253, guid: a155ed20d1843ca4583fdaa062d46120, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 1895612060083465945, guid: f759a7797e6332f438c777db492b5a86, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 20
+  - pooledObjects: []
+    prefab: {fileID: 1259321441582268, guid: 78e25a6d5cbe0644b95adfa71d18e03a, type: 3}
+    startingParent: {fileID: 0}
+    startingQuantity: 5
