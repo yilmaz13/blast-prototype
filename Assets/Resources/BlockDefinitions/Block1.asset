@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 562989699ca476d40a9b24757ad85e18, type: 3}
+  m_Name: Block1
+  m_EditorClassIdentifier: 
+  blockMatchConditions:
+  - powerUpCondition:
+      name: Rocket
+      conditionCount: 1
+    sprite: {fileID: 21300000, guid: 0cd1217d31fe9804f850477f662c28e2, type: 3}
+    entitiesToSpawnOnMatch:
+    - {fileID: 11400000, guid: 1090d40f0d0533248bd27d2e9937f8dd, type: 2}
+    - {fileID: 11400000, guid: 16494df6b49a8864e89e55e408022323, type: 2}
+  - powerUpCondition:
+      name: Rocket1
+      conditionCount: 1
+    sprite: {fileID: 21300000, guid: 27df91310b056c341a3790b6b1f4714a, type: 3}
+    entitiesToSpawnOnMatch:
+    - {fileID: 11400000, guid: 1090d40f0d0533248bd27d2e9937f8dd, type: 2}
+    - {fileID: 11400000, guid: 16494df6b49a8864e89e55e408022323, type: 2}
+  - powerUpCondition:
+      name: Rocket2
+      conditionCount: 1
+    sprite: {fileID: 21300000, guid: a9f53e962b37b1244973f489bb63a59d, type: 3}
+    entitiesToSpawnOnMatch:
+    - {fileID: 11400000, guid: 1090d40f0d0533248bd27d2e9937f8dd, type: 2}
+    - {fileID: 11400000, guid: 16494df6b49a8864e89e55e408022323, type: 2}
+  gridEntityPrefab: {fileID: 1759251173121858, guid: 14d62233dbb634a6d9d0e4ce527199e4, type: 3}
+  type: 0
+  defaultSprite: {fileID: 21300000, guid: 3498d7c4a0d6ff44c818d9528739e2a1, type: 3}
+  onDestroyParticle: {fileID: 3912451879940116726, guid: 7d309fb7e8ea4b94c922d215c43e95e3, type: 3}
+  onDestroyAudio: {fileID: 0}
+  entityIncludedInShuffle: 1
