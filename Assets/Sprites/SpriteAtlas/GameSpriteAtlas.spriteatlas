@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GameSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 46
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5f7f248d1a6e99c48a6b2d4a2362f810, type: 3}
+    - {fileID: 102900000, guid: 9add844d438055043ba0b4301360a0a4, type: 3}
+    totalSpriteSurfaceArea: 436816
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dd512a4075ddd42bb85180a2709b9538, type: 3}
+  - {fileID: 21300000, guid: 8276ce50782cef149b57659f25f49378, type: 3}
+  - {fileID: 21300000, guid: 27df91310b056c341a3790b6b1f4714a, type: 3}
+  - {fileID: 21300000, guid: d14d2331f971c1647b421b5390979765, type: 3}
+  - {fileID: 21300000, guid: 7152a1e175e4f1f48ad6b384c842dbd5, type: 3}
+  - {fileID: 21300000, guid: e4c7325222c9b80418078a1979613287, type: 3}
+  - {fileID: 21300000, guid: bf3685f2109794b4a96ff7f37c4093c4, type: 3}
+  - {fileID: 21300000, guid: 7fd9a6236b155e44ebaccfef2e6b6ec3, type: 3}
+  - {fileID: 21300000, guid: 16a2fc6381154094ea48cf556819fefd, type: 3}
+  - {fileID: 21300000, guid: 1863884410edef64e8c83fb4015e1fc0, type: 3}
+  - {fileID: 21300000, guid: 3498d7c4a0d6ff44c818d9528739e2a1, type: 3}
+  - {fileID: 21300000, guid: 4e3106e46fe9a8b45b2c3df7c03bd46c, type: 3}
+  - {fileID: 21300000, guid: b8ca16e4d7732874d8fa6074112b3803, type: 3}
+  - {fileID: 21300000, guid: 71d9d845c72e98049ae9819008930ee6, type: 3}
+  - {fileID: 21300000, guid: a9f53e962b37b1244973f489bb63a59d, type: 3}
+  - {fileID: 21300000, guid: 842b4307f0e88f749bda521c043fbb8e, type: 3}
+  - {fileID: 21300000, guid: 3bdf3c9792d27194f9bec4394129b641, type: 3}
+  - {fileID: 21300000, guid: f29609a85e39853419e50c5abce231b0, type: 3}
+  - {fileID: 21300000, guid: 3059d939111015f4b8cb049505827585, type: 3}
+  - {fileID: 21300000, guid: 8130eb0a4ac3bca4796d56fa0ea6e342, type: 3}
+  - {fileID: 21300000, guid: b97ef9eadb585d14fa8b51b475f2ab3a, type: 3}
+  - {fileID: 21300000, guid: 5994434bb703c6049b2820db8dd8df66, type: 3}
+  - {fileID: 21300000, guid: 8ed371ab9984cd64eb911a3d375bddaa, type: 3}
+  - {fileID: 21300000, guid: abd25bcc701eacb498187431c4efef5f, type: 3}
+  - {fileID: 21300000, guid: 0cd1217d31fe9804f850477f662c28e2, type: 3}
+  - {fileID: 21300000, guid: 8e1c2dbdbd6eb7f4c861092c2cf8d991, type: 3}
+  - {fileID: 21300000, guid: 3272d5edc2e45c3429abde0712758dc7, type: 3}
+  - {fileID: 21300000, guid: 53ea270ed305aee4393c53082212fc45, type: 3}
+  - {fileID: 21300000, guid: a782196f2eeaf554da65bd82df15643f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FlowerPollen
+  - Block2B
+  - Block1B
+  - Block6B
+  - Block5B
+  - Block3
+  - Block2A
+  - Block4C
+  - rocket_right
+  - Block5C
+  - Block1
+  - Block6A
+  - Block3A
+  - Block6
+  - Block1C
+  - Glitter
+  - Block4
+  - Block3B
+  - rocket_left
+  - Block6C
+  - Block2C
+  - Block2
+  - Block3C
+  - Block5A
+  - Block1A
+  - rocket
+  - Block4A
+  - Block5
+  - Block4B
+  m_RenderDataMap: {}
+  m_Tag: GameSpriteAtlas
+  m_IsVariant: 0
