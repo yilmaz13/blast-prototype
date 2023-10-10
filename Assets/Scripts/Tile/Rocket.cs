@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace Tile
 {
-    public class Rocket : TileEntity, IPoolable
+    public class Rocket : TileEntity, IPoolable, ITile
     {
         [SerializeField] RocketDirection directionConst;
         [SerializeField] private GameObject childUp;
